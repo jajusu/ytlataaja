@@ -1,2 +1,2 @@
 # ytlataaja
-Youtube-lataaja
+Komentoriviltä toimiva Youtube-lataaja, käyttää pytube-kirjastoa
